@@ -1,0 +1,25 @@
+{
+	"inventory" : [
+	{
+	"Name":"Basmati",
+	"Weight" : 45.25 ,
+	"Price_Per_Kg" :  50.45 ,
+	"Type " : "Rice" 
+	},
+	
+	{
+	"Name":"Dawat",
+	"Weight" : 50.00 ,
+	"Price_Per_Kg" : 25.50 ,
+	"Type " : "Pulses" 
+	},
+	
+	{
+	"Name":" Aashirvaad ",
+	"Weight" : 100.00 ,
+	"Price_Per_Kg" : 42.90 ,
+	"Type " : "Wheat" 
+	}
+]
+
+}
